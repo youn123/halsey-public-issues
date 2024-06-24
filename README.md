@@ -1,2 +1,1 @@
-# halsey-public-issues
-Place for keeping track of bug reports and feature requests for Halsey
+Please create a new issue with the `bug` or `feature request` tag for bug reports or feature requests, respectively.
